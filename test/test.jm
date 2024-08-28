@@ -1,0 +1,54 @@
+class Classes{
+    public static void main(fx2 x){
+        number[] first;
+        String s;
+        a[x&&9]=2+5;
+        x[0]=0**9;
+        x[1] = 7**2;
+        x[2] = x*4;
+        a[4];
+        print(b.set(1));
+
+        if(x){
+            this.x=0;
+        }
+    }
+}
+class A inherits B{
+    public final number x=x**9;
+    @Override
+    private int firstmethod(int yt, number x){
+        while(x)
+            number second;
+    }
+
+}
+class B inherits C{
+    public final number x=x**9;
+    @Override
+    private int x(int x, number x){
+        while(x)
+            number x;
+    }
+}
+class C inherits A{
+    public final number x=x**9;
+    @Override
+    private int x(int x, number x){
+        while(x)
+            number x;
+    }
+}
+class x inherits y implements k,l{
+    public final number x=x**9;
+
+}
+interface k {
+
+    private int x(int x, number x);
+}
+interface Face{
+ public final number a;
+ void getFace1(number s, number a);
+ int getFace(int s, int aas);
+}
